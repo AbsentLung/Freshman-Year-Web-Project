@@ -1,0 +1,18 @@
+<!--Final Project CS150-01 Web Page Construction by Joseph Bennett 4/27/12-->
+<html>
+<head>
+<title>Welcome to AbsentLung.com</title>
+<link rel="stylesheet" type="text/css" href="final.css" />
+<link rel="stylesheet" type="text/css" href="layout.css" />
+</head>
+<body>
+
+<img src="backgrounds/Full.jpg" usemap="#indexmap" alt="" class="center">
+<map name="indexmap">
+<area shape="poly" coords="209,0,0,272,66,481,380,227,362,0," href="reeeah.html" alt="reeeah!" title="reeeah!"/>
+<area shape="poly" coords="387,100,765,555,941,197,610,0," href="absentlung.html" alt="absentlung" title="absentlung"/>
+<area shape="poly" coords="66,481,245,338,390,482,515,685,80,717," href="about.html" alt="about me" title="about me"/>
+</map>
+
+</body>
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--Final Project CS150-01 Web Page Construction by Joseph Bennett 4/27/12-->
+<html>
+
+<head>
+	<title>
+	Songs
+	</title>
+<link rel="stylesheet" type="text/css" href="final.css"/>
+<link rel="stylesheet" type="text/css" href="layout.css"/>
+</head>
+
+<body>
+
+
+	<style type="text/css">
+	body{
+	background-image:url('backgrounds/reeeah.jpg');
+	</style>
+
+<table align="center" id="drop">
+
+<td>
+
+<ul id="navigation">
+		<li><a href="index.html" title="Home"><img src="Navigation/Home.jpg" title="Home" alt="Home" border=1></a>
+</ul>
+</td>
+
+<td>
+<ul id="navigation">
+
+		<li><a href="about.html" title="Joseph Bennett"><img src="Navigation/me.jpg" title="Me" alt="Me" border=1></a>
+			<ul id="drop">
+				<li><a href="info.html"><img src="Navigation/about.jpg" title="About Me" alt="About Me" border=1></a></li>
+				<li><a href="philosophy.html"><img src="Navigation/philosophy.jpg" title="philosophy" alt="philosophy" border=1></a></li>
+				<li><a href="schedule.html"><img src="Navigation/schedule.jpg" title="schedule" alt="schedule" border=1></a></li>
+				<li><a href="pictures.html"><img src="Navigation/pictures.jpg" title="pictures" alt="pictures" border=1></a></li>
+				<li><a href="contact.html"><img src="Navigation/contact.jpg" title="Contact Me" alt="Contact Me" border=1></a></li>
+			</ul>
+		</li>
+</ul>
+</td>
+<td>
+<ul id="navigation">
+		<li><a href="absentlung.html" title="Absent Lung"><img src="Navigation/Absentlung.jpg" title="Absent Lung" alt="Absent Lung" border=1></a>
+			<ul id="drop">
+				<li><a href="absentlungsongs.html"><img src="Navigation/songs2.jpg" title="Songs" alt="Songs" border=1></a></li>
+				<li><a href="absentlungvideos.html"><img src="Navigation/video2.jpg" title="Videos" alt="Videos" border=1></a></li>
+				<li><a href="absentlungproduction.html"><img src="Navigation/production2.jpg" title="Production" alt="Production" border=1></a></li>
+				<li><a href="absentlunghistory.html"><img src="Navigation/history2.jpg" title="History" alt="History" border=1></a></li>
+				<li><a href="absentlunglinks.html"><img src="Navigation/links2.jpg" title="Links" alt="Links" border=1></a></li>
+				<li><a href="absentlungdownloads.html"><img src="Navigation/download2.jpg" title="Downloads" alt="Downloads" border=1></a></li>
+			</ul>
+		</li>
+</ul>
+</td>
+<td>
+<ul id="navigation">
+		<li class="current"><a href="reeeah.html" title="Reeeah!"><img src="Navigation/Reeeah.jpg" title="Reeeah!" alt="Reeeah!" border=1></a>
+			<ul id="drop">
+				<li class="notcurrent"><a href="reeeah.html"><img src="Navigation/songs.jpg" title="Songs" alt="Songs" border=1></a></li>
+				<li class="notcurrent"><a href="reeeahvideos.html"><img src="Navigation/video.jpg" title="Videos" alt="Videos" border=1></a></li>
+				<li class="notcurrent"><a href="reeeahproduction.html"><img src="Navigation/production.jpg" title="Production" alt="Production" border=1></a></li>
+				<li class="notcurrent"><a href="reeeahhistory.html"><img src="Navigation/history.jpg" title="History" alt="History" border=1></a></li>
+				<li class="notcurrent"><a href="reeeahlinks.html"><img src="Navigation/links.jpg" title="Links" alt="Links" border=1></a></li>
+				<li class="notcurrent"><a href="reeeahdownloads.html"><img src="Navigation/download.jpg" title="Downloads" alt="Downloads" border=1></a></li>
+			</ul>
+		</li>
+</ul>
+</td>
+<td>
+<ul id="navigation">
+		<li><a href="downloads.html" title="Downloads"><img src="Navigation/download.jpg" title="Downloads" alt="Downloads" border=1/></a></li>
+</ul>
+</td>
+<td>
+<ul id="navigation">
+
+		<li><a href="links.html" title="Links"><img src="Navigation/links.jpg" title="Links" alt="Links" border=1/></a>
+			<ul id="drop">
+				<li><a target="_blank" href="http://www.facebook.com/absentlung"><img src="Navigation/Links/Facebook.jpg" title="Facebook" alt="Facebook" border=1></a></li>
+				<li><a target="_blank" href="http://www.myspace.com/absentlung"><img src="Navigation/Links/MyspaceElectronic.jpg" title="Myspace (Electronic)" alt="Myspace (Electronic)" border=1></a></li>
+				<li><a target="_blank" href="http://www.myspace.com/reeeah"><img src="Navigation/Links/MyspaceMetal.jpg" title="Myspace (Metal)" alt="Myspace (Metal)" border=1></a></li>
+				<li><a target="_blank" href="http://www.soundcloud.com/absentlung"><img src="Navigation/Links/Soundcloud.jpg" title="Soundcloud" alt="Soundcloud" border=1></a></li>
+				<li><a target="_blank" href="http://www.twitter.com/absentlung"><img src="Navigation/Links/Twitter.jpg" title="Twitter" alt="Twitter" border=1></a></li>
+				<li><a target="_blank" href="http://www.youtube.com/joeybonesgnarly"><img src="Navigation/Links/Youtube.jpg" title="Youtube" alt="Youtube" border=1></a></li>
+			</ul>
+		</li>
+</ul>
+
+</td>
+
+</table>
+
+<div id="all">
+<div id="top">
+<h1>Reeeah!</h1>
+</div>
+<div id="left">
+<p>
+<h2>Links</h2>
+<a href="reeeah.html"><img src="Navigation/inverted/reeeah.jpg"></a>
+<br>
+<a href="reeeahsongs.html"><img src="Navigation/inverted/songs.jpg"></a>
+<br>
+<a href="reeeahvideos.html"><img src="Navigation/inverted/video.jpg"></a>
+<br>
+<a href="reeeahproduction.html"><img src="Navigation/inverted/production.jpg"></a>
+<br>
+<a href="reeeahhistory.html"><img src="Navigation/inverted/history.jpg"></a>
+<br>
+<a href="reeeahlinks.html"><img src="Navigation/inverted/links.jpg"></a>
+<br>
+<a href="reeeahdownloads.html"><img src="Navigation/inverted/download.jpg"></a>
+</p>
+</div>
+<div id="main">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F44563269&show_artwork=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F44563269&show_artwork=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F44563269&show_artwork=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F44563269&show_artwork=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F44563269&show_artwork=true"></iframe>
+</div>
+<div id="footer">
+<table align="left">
+
+<td>
+
+<ul id="navigation">
+
+		<li><a href="index.html" title="Home"><img src="Navigation/Home.jpg" title="Home" alt="Home" width="50px"></a></li>
+		<li><a href="about.html" title="About"><img src="Navigation/me.jpg" title="Joseph Bennett" alt="Joseph Bennett" width="50px"></a></li>
+		<li><a href="absentlung.html" title="Absent Lung"><img src="Navigation/Absentlung.jpg" title="Absent Lung" alt="Absent Lung" width="100px"></a></li>
+		<li class="current"><a href="reeeah.html" title="Reeeah!"><img src="Navigation/Reeeah.jpg" title="Reeeah!" alt="Reeeah!" width="50px"></a></li>
+		<li><a href="downloads.html" title="Downloads"><img src="Navigation/download.jpg" title="Downloads" alt="Downloads" width="50px"/></a></li>
+		<li><a href="links.html" title="Links"><img src="Navigation/links.jpg" title="Links" alt="Links" width="50px"/></a></li>
+		</ul>
+</td></table>
+&#9426; Absent Lung Productions 2012.  Written and designed by 
+<a href="http://www.facebook.com/babyfacedjoey" target="_blank">Joseph Bennett</a> 
+<a href="#"><img src="up.jpg" align="right" title="Scroll Up" alt="Scroll Up" width="15px"></a>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,34 @@
+body
+{
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position: center;
+background-color:#FFFFFF;
+color:#000000;
+font-family:
+	arial,
+	"Times New Roman", 
+	Times,;
+font-weight :bold;
+}
+	
+a:hover
+{color:#000000;
+}
+
+a{
+	color:#FFF;
+	text-decoration:none;
+	}
+
+h1{font-family: Copperplate Gothic Bold, Algerian;}
+
+h2{font-family: FrankRuehl, Copperplate Gothic Bold;}
+
+img.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
+	min-height: 12em;
+}

@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--Final Project CS150-01 Web Page Construction by Joseph Bennett 4/27/12-->
+<html>
+
+<head>
+	<title>
+	Philosophy
+	</title>
+<link rel="stylesheet" type="text/css" href="final.css"/>
+<link rel="stylesheet" type="text/css" href="layout.css"/>
+</head>
+
+<body>
+
+
+	<style type="text/css">
+	body{
+	background-image:url('backgrounds/about.jpg');
+	</style>
+
+<table align="center" id="drop">
+
+<td>
+
+<ul id="navigation">
+		<li><a href="index.html" title="Home"><img src="Navigation/Home.jpg" title="Home" alt="Home" border=1></a>
+</ul>
+</td>
+
+<td>
+<ul id="navigation">
+
+		<li class="current"><a href="about.html" title="Joseph Bennett"><img src="Navigation/me.jpg" title="Me" alt="Me" border=1></a>
+			<ul id="drop">
+				<li class="notcurrent"><a href="info.html"><img src="Navigation/about.jpg" title="About Me" alt="About Me" border=1></a></li>
+				<li class="notcurrent"><a href="philosophy.html"><img src="Navigation/philosophy.jpg" title="philosophy" alt="philosophy" border=1></a></li>
+				<li class="notcurrent"><a href="schedule.html"><img src="Navigation/schedule.jpg" title="schedule" alt="schedule" border=1></a></li>
+				<li class="notcurrent"><a href="pictures.html"><img src="Navigation/pictures.jpg" title="pictures" alt="pictures" border=1></a></li>
+				<li class="notcurrent"><a href="contact.html"><img src="Navigation/contact.jpg" title="Contact Me" alt="Contact Me" border=1></a></li>
+			</ul>
+		</li>
+</ul>
+</td>
+<td>
+<ul id="navigation">
+		<li><a href="absentlung.html" title="Absent Lung"><img src="Navigation/Absentlung.jpg" title="Absent Lung" alt="Absent Lung" border=1></a>
+			<ul id="drop">
+				<li><a href="absentlungsongs.html"><img src="Navigation/songs2.jpg" title="Songs" alt="Songs" border=1></a></li>
+				<li><a href="absentlungvideos.html"><img src="Navigation/video2.jpg" title="Videos" alt="Videos" border=1></a></li>
+				<li><a href="absentlungproduction.html"><img src="Navigation/production2.jpg" title="Production" alt="Production" border=1></a></li>
+				<li><a href="absentlunghistory.html"><img src="Navigation/history2.jpg" title="History" alt="History" border=1></a></li>
+				<li><a href="absentlunglinks.html"><img src="Navigation/links2.jpg" title="Links" alt="Links" border=1></a></li>
+				<li><a href="absentlungdownloads.html"><img src="Navigation/download2.jpg" title="Downloads" alt="Downloads" border=1></a></li>
+			</ul>
+		</li>
+</ul>
+</td>
+<td>
+<ul id="navigation">
+		<li><a href="reeeah.html" title="Reeeah!"><img src="Navigation/Reeeah.jpg" title="Reeeah!" alt="Reeeah!" border=1></a>
+			<ul id="drop">
+				<li><a href="reeeah.html"><img src="Navigation/songs.jpg" title="Songs" alt="Songs" border=1></a></li>
+				<li><a href="reeeahvideos.html"><img src="Navigation/video.jpg" title="Videos" alt="Videos" border=1></a></li>
+				<li><a href="reeeahproduction.html"><img src="Navigation/production.jpg" title="Production" alt="Production" border=1></a></li>
+				<li><a href="reeeahhistory.html"><img src="Navigation/history.jpg" title="History" alt="History" border=1></a></li>
+				<li><a href="reeeahlinks.html"><img src="Navigation/links.jpg" title="Links" alt="Links" border=1></a></li>
+				<li><a href="reeeahdownloads.html"><img src="Navigation/download.jpg" title="Downloads" alt="Downloads" border=1></a></li>
+			</ul>
+		</li>
+</ul>
+</td>
+<td>
+<ul id="navigation">
+		<li><a href="downloads.html" title="Downloads"><img src="Navigation/download.jpg" title="Downloads" alt="Downloads" border=1/></a></li>
+</ul>
+</td>
+<td>
+<ul id="navigation">
+
+		<li><a href="links.html" title="Links"><img src="Navigation/links.jpg" title="Links" alt="Links" border=1/></a>
+			<ul id="drop">
+				<li><a target="_blank" href="http://www.facebook.com/absentlung"><img src="Navigation/Links/Facebook.jpg" title="Facebook" alt="Facebook" border=1></a></li>
+				<li><a target="_blank" href="http://www.myspace.com/absentlung"><img src="Navigation/Links/MyspaceElectronic.jpg" title="Myspace (Electronic)" alt="Myspace (Electronic)" border=1></a></li>
+				<li><a target="_blank" href="http://www.myspace.com/reeeah"><img src="Navigation/Links/MyspaceMetal.jpg" title="Myspace (Metal)" alt="Myspace (Metal)" border=1></a></li>
+				<li><a target="_blank" href="http://www.soundcloud.com/absentlung"><img src="Navigation/Links/Soundcloud.jpg" title="Soundcloud" alt="Soundcloud" border=1></a></li>
+				<li><a target="_blank" href="http://www.twitter.com/absentlung"><img src="Navigation/Links/Twitter.jpg" title="Twitter" alt="Twitter" border=1></a></li>
+				<li><a target="_blank" href="http://www.youtube.com/joeybonesgnarly"><img src="Navigation/Links/Youtube.jpg" title="Youtube" alt="Youtube" border=1></a></li>
+			</ul>
+		</li>
+</ul>
+
+</td>
+
+</table>
+
+<div id="all">
+<div id="top">
+<h1>Absent Lung</h1>
+</div>
+<div id="left">
+<p>
+<h2>Links</h2>
+<a href="about.html"><img src="navigation/inverted/me.jpg" alt="Joseph Bennett" title="Joseph Bennett"></a>
+<br>
+<a href="info.html"><img src="Navigation/inverted/About.jpg" title="About Me" alt="About Me" border=1></a>
+<br>
+<a href="philosophy.html"><img src="Navigation/inverted/philosophy.jpg" title="philosophy" alt="philosophy" border=1></a>
+<br>
+<a href="schedule.html"><img src="Navigation/inverted/schedule.jpg" title="schedule" alt="schedule" border=1></a>
+<br>
+<a href="pictures.html"><img src="Navigation/inverted/pictures.jpg" title="pictures" alt="pictures" border=1></a>
+<br>
+<a href="contact.html"><img src="Navigation/inverted/contact.jpg" title="Contact Me" alt="Contact Me" border=1></a>
+</p>
+</div>
+<div id="main">
+<h1>My Philosophies</h1>
+I am not a philosopher nor am I even a philosophy minor.  However I am philosophical and sometimes, though I do admit it is somewhat narcissistic, 
+I feel the need to write my philosophies down as if everyone needs to hear them.
+<br>
+<br>
+My opinion on the YOLO theory.  As one of my professors had worded it, "You work, you play, and you plork."  Plork is a mix between play and work. 
+We cannot live a satisfying life without a little bit of fun, but we should never mix our fun with our work.  For example watching television, eating, 
+surfing the web, etc. while doing work is distracting, less fun, and less fulfilling while providing slower progression with the main tasks at hand. 
+Procrastinating, or "plorking", is not worthwhile and there are studies which will back up my beliefs on this subject.
+<br>
+<br>
+All we are is a brain.  We are destined to think certain thoughts and act a certain way due to the inevitable environment and our DNA which programs us. 
+Thus we cannot escape fate no matter how hard we try.  That is the truth.  Deal with it.
+<br>
+<br>
+My own personal theory on the creation of time and everything that is here in this world.  Originally I was Christian.  I had lost my fate eventually 
+after analyzing various aspects of Christianity.   Eventually, after thinking hard about many different theories, I had become solipsist.  Solipsism is 
+the belief that nothing is real except for your mind to which you know is real.  I thought that everything was made up in my head.  However, eventually 
+I started to think about the fact that other things being brought into existence is just as likely as my mind being brought into existence.  This is due 
+to the fact that anything out here must have either been created or it has always been here.  However, the only way for something to be created is if it 
+was created by something that has lived infinitely forward in the future as well as infinitely backward in the past.  Creation and the movement of particles 
+happens throughout time.  The only way for time to make any sense is for it to have been going on endlessly, infinitely forward as well as infinitely. 
+Due to the fact that time has to be there in order for something to create time, time must only exist if it is repeating itself.  Time has repeated itself 
+infinite times and it continues to do so infinitely.  That is the only imaginable theory which I can draw to considering how imagining other dimensions is 
+impossible to us being in the third dimension.
+</div>
+<div id="footer">
+<table align="left">
+
+<td>
+
+<ul id="navigation">
+
+		<li><a href="index.html" title="Home"><img src="Navigation/Home.jpg" title="Home" alt="Home" width="50px"></a></li>
+		<li><a href="about.html" title="About"><img src="Navigation/me.jpg" title="Joseph Bennett" alt="Joseph Bennett" width="50px"></a></li>
+		<li><a href="absentlung.html" title="Absent Lung"><img src="Navigation/Absentlung.jpg" title="Absent Lung" alt="Absent Lung" width="100px"></a></li>
+		<li class="current"><a href="reeeah.html" title="Reeeah!"><img src="Navigation/Reeeah.jpg" title="Reeeah!" alt="Reeeah!" width="50px"></a></li>
+		<li><a href="downloads.html" title="Downloads"><img src="Navigation/download.jpg" title="Downloads" alt="Downloads" width="50px"/></a></li>
+		<li><a href="links.html" title="Links"><img src="Navigation/links.jpg" title="Links" alt="Links" width="50px"/></a></li>
+		</ul>
+</td></table>
+&#9426; Absent Lung Productions 2012.  Written and designed by 
+<a href="http://www.facebook.com/babyfacedjoey" target="_blank">Joseph Bennett</a> 
+<a href="#"><img src="up.jpg" align="right" title="Scroll Up" alt="Scroll Up" width="15px"></a>
+</div>
+</div>
+</body>
+</html>
